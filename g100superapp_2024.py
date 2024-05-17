@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
+'''
 !pip install joblib
 import joblib
 import streamlit as st
