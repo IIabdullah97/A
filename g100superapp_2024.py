@@ -37,4 +37,4 @@ if st.button("Predict"):
 # Add a footer image or any other image
 footer_image_url = "https://miro.medium.com/v2/resize:fit:1400/1*_igArwmR7Pj_Mu_KUGD1SQ.png"  # My footer image URL
 st.image(footer_image_url, caption='Footer Image', use_column_width=True)
-
+'''
