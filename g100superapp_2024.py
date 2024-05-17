@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-"""G100SuperApp.ipynb
 
 """
-
+!pip install joblib
 import joblib
 import streamlit as st
 #!pip install scikit-learn
